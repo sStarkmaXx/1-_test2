@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.ОстаткиБлюд" id="3434bc8e-b1d0-43a5-89cc-f6fd26c7b097" configVersion="dada76563457b343ad1ec2a8aa117c7800000000">
+			<Metadata name="AccumulationRegister.ОстаткиБлюд.Dimension.Блюдо" id="25cc5139-a9ed-432f-bf0f-420c672d8ea9"/>
+			<Metadata name="AccumulationRegister.ОстаткиБлюд.Attribute.ЕдиницыИзмерения" id="65993e5c-4642-4a62-94b4-9f2da7c3b61f"/>
+			<Metadata name="AccumulationRegister.ОстаткиБлюд.Resource.Количество" id="abf99303-1847-4065-8357-5c469869e310"/>
+		</Metadata>
+		<Metadata name="AccumulationRegister.ОстаткиПродуктов" id="6b4e688e-0335-48b6-bb4b-6ca09b505cc8" configVersion="3246e97bb4613041ab11395519a68ef400000000">
+			<Metadata name="AccumulationRegister.ОстаткиПродуктов.Attribute.ЕдиницыИзмерения" id="114c6463-8fe3-44e6-b250-3eae1736b566"/>
+			<Metadata name="AccumulationRegister.ОстаткиПродуктов.Dimension.Продукт" id="1c1b8467-117a-4100-9ac5-fabce4da0330"/>
+			<Metadata name="AccumulationRegister.ОстаткиПродуктов.Resource.Количество" id="b1dcd6ef-a7d8-4b48-bbc9-7a9e7187c4cf"/>
+		</Metadata>
+		<Metadata name="Catalog.Блюда" id="b7dee468-fa34-454c-a115-d40c99f17252" configVersion="bfffb245fc0dc3459d46b71a28b8a65300000000"/>
+		<Metadata name="Catalog.Продукты" id="775f2936-ce3b-46d4-a6db-0121db5ebd6c" configVersion="0eb36059771854439326abefa9bdf1d500000000"/>
+		<Metadata name="CommonForm.ЕдиницыИзмеренияВКг" id="99aa0797-fa28-4e26-aa8d-c0bd1b86fe2b" configVersion="487f954cff06384197add4c92f5882a600000000"/>
+		<Metadata name="CommonForm.ЕдиницыИзмеренияВКг.Form" id="99aa0797-fa28-4e26-aa8d-c0bd1b86fe2b.0" configVersion="b33b61a6a195934ea9373e40f14ee13100000000"/>
+		<Metadata name="CommonModule.РаботаСДокументами" id="bf69053f-eea3-405c-9548-6ebd2cc85891" configVersion="e509575558bd994dbde5ba2ee77eca1200000000"/>
+		<Metadata name="CommonModule.РаботаСДокументами.Module" id="bf69053f-eea3-405c-9548-6ebd2cc85891.0" configVersion="405fdc2d18c1c34487b752a38fa74fd500000000"/>
+		<Metadata name="Configuration.МясниковМИИтоговоеЗадание2В2" id="f8bcb1ce-075e-486d-86c0-c271eec6305e" configVersion="0381f48e46d2ec42b6fbf5cf403104d800000000"/>
+		<Metadata name="Configuration.МясниковМИИтоговоеЗадание2В2.MainSectionCommandInterface" id="cb687e3f-7eea-4db2-beca-8f0ec68b5760.9" configVersion="fdac1a6b00875a46b3e1cd2a6110c1ed00000000"/>
+		<Metadata name="Constant.БутылкаМасла" id="136f028b-40dd-4c8a-bfe1-382b0b29d5cb" configVersion="7d57222333cc6b4da22d426d0371bb0800000000"/>
+		<Metadata name="Constant.Порция" id="42c7c32e-58e5-4867-877d-121179986915" configVersion="69400c0c70b52540802a0b81a483e7f400000000"/>
+		<Metadata name="Document.Комплектация" id="417f9549-8410-45f9-8c27-1f1224bd1915" configVersion="b7c154289bcfc5448700112c3990c94b00000000">
+			<Metadata name="Document.Комплектация.TabularSection.Состав.Attribute.ЕдиницыИзмерения" id="2f53fc60-1bcd-4a1a-9bd2-89850ca06e0c"/>
+			<Metadata name="Document.Комплектация.Attribute.КоличествоПорций" id="63e34263-e5c5-47ff-81a1-1e2ce2795cb3"/>
+			<Metadata name="Document.Комплектация.TabularSection.Состав.Attribute.Ингридиент" id="6a1c4b27-9ce1-47db-a0af-035dd9da15bd"/>
+			<Metadata name="Document.Комплектация.TabularSection.Состав.Attribute.Количество" id="a894c47d-eed2-4284-94dd-96fe746ad7b4"/>
+			<Metadata name="Document.Комплектация.Attribute.Рецепт" id="dbb997ef-64d4-4a1d-9574-bf4b04d59f1f"/>
+			<Metadata name="Document.Комплектация.TabularSection.Состав" id="f62e2189-fe83-4f9c-9708-906f6f168546"/>
+			<Metadata name="Document.Комплектация.Attribute.Блюдо" id="fdbbdb55-dcda-4b8f-a51f-c2b00824e9bc"/>
+		</Metadata>
+		<Metadata name="Document.Комплектация.Form.ФормаДокумента" id="4a1ac92f-cc6f-489d-ba99-1d7a665eb9b2" configVersion="04b4f7f0c0390e4a9eea9993a3368d9c00000000"/>
+		<Metadata name="Document.Комплектация.Form.ФормаДокумента.Form" id="4a1ac92f-cc6f-489d-ba99-1d7a665eb9b2.0" configVersion="efc49a2f7380b345812abc1dc17cd10a00000000"/>
+		<Metadata name="Document.Комплектация.ObjectModule" id="417f9549-8410-45f9-8c27-1f1224bd1915.0" configVersion="7e702875ff97f241909139c494169d8600000000"/>
+		<Metadata name="Document.ПриходнаяНакладная" id="fe01586c-1896-46ea-a784-4f3c36b2715a" configVersion="57bb5bae907b464a992efa505d8036e000000000">
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Продукты" id="008807de-fedb-470b-990f-30ca8cd037d8"/>
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Продукты.Attribute.Продукт" id="05dfb62c-697f-4d00-91ae-d5351ed8a499"/>
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Продукты.Attribute.Количество" id="947382ec-f1a1-4a9d-851f-e29bd0a81995"/>
+			<Metadata name="Document.ПриходнаяНакладная.TabularSection.Продукты.Attribute.ЕдиницыИзмерения" id="b6bec19d-8a3c-4481-bf6e-4f213bd8aaa5"/>
+		</Metadata>
+		<Metadata name="Document.ПриходнаяНакладная.ObjectModule" id="fe01586c-1896-46ea-a784-4f3c36b2715a.0" configVersion="2088516c27d11c419549c943d351f01300000000"/>
+		<Metadata name="Document.РасходнаяНакладная" id="ddc6cc6a-6bac-45f7-8047-b713c08512b1" configVersion="a4eef3a46289da4181f449ac9b1c694500000000">
+			<Metadata name="Document.РасходнаяНакладная.TabularSection.Товары.Attribute.Товары" id="39d8a85f-e0d3-49dc-ba3d-051631507f34"/>
+			<Metadata name="Document.РасходнаяНакладная.TabularSection.Товары" id="a1f2cd56-df82-4050-9d09-57aaec5b2233"/>
+			<Metadata name="Document.РасходнаяНакладная.TabularSection.Товары.Attribute.Количество" id="e1e411b9-566d-4496-9c7f-d5b22749bee8"/>
+			<Metadata name="Document.РасходнаяНакладная.TabularSection.Товары.Attribute.ЕдиницыИзмерения" id="e660a2a3-ee22-4ebd-8100-00f457dec432"/>
+		</Metadata>
+		<Metadata name="Document.РасходнаяНакладная.Form.ФормаДокумента" id="667bf2c6-6a1a-4548-a6c1-28d7e24d7424" configVersion="e8e6c218abc27748b816691bede1b74a00000000"/>
+		<Metadata name="Document.РасходнаяНакладная.Form.ФормаДокумента.Form" id="667bf2c6-6a1a-4548-a6c1-28d7e24d7424.0" configVersion="e4f0956537c28c439a1c63dad7564d2800000000"/>
+		<Metadata name="Document.РасходнаяНакладная.ObjectModule" id="ddc6cc6a-6bac-45f7-8047-b713c08512b1.0" configVersion="01dfd9f333870b449f033d6257212db400000000"/>
+		<Metadata name="Document.Рецепт" id="a416906e-45d7-4fcd-94d8-c14ef4d036db" configVersion="a74587a47e827048929bd08dcdd5d00200000000">
+			<Metadata name="Document.Рецепт.TabularSection.Состав" id="0f7c495a-1266-488f-8776-0cf5580ad1b5"/>
+			<Metadata name="Document.Рецепт.TabularSection.Состав.Attribute.ЕдиницыИзмерения" id="3cf45c55-801b-4ea5-afa9-50a69eae2cf2"/>
+			<Metadata name="Document.Рецепт.TabularSection.Состав.Attribute.Ингридиент" id="4d3a1085-1f80-4d11-bf98-7fd7dc2e3c3f"/>
+			<Metadata name="Document.Рецепт.Attribute.Блюдо" id="8c465b26-b7e9-4832-8206-da185e827eee"/>
+			<Metadata name="Document.Рецепт.TabularSection.Состав.Attribute.Количество" id="9102ce48-88d1-4963-8395-b7b4d925750a"/>
+		</Metadata>
+		<Metadata name="Document.Рецепт.ObjectModule" id="a416906e-45d7-4fcd-94d8-c14ef4d036db.0" configVersion="31d7a51b33541b44a639a91087a6d2c900000000"/>
+		<Metadata name="Enum.ЕдиницыИзмерения" id="34362bdd-7dd4-47ad-9d5b-ce4aca481ff5" configVersion="30211ebe064de145a2d72a1cc5b8f55900000000">
+			<Metadata name="Enum.ЕдиницыИзмерения.EnumValue.Бутылка" id="1d7d6be2-4134-4abc-a15f-e0b3c4aedde2"/>
+			<Metadata name="Enum.ЕдиницыИзмерения.EnumValue.Литр" id="324d3747-3505-4c41-b602-e42ed7d8d170"/>
+			<Metadata name="Enum.ЕдиницыИзмерения.EnumValue.Порция" id="90c508cb-144a-4f7e-8f13-cf72d9660621"/>
+			<Metadata name="Enum.ЕдиницыИзмерения.EnumValue.Килограмм" id="9c3b883c-c23e-4bcb-acc4-b5a1c41144fc"/>
+			<Metadata name="Enum.ЕдиницыИзмерения.EnumValue.Грамм" id="ecbafca0-7fdb-4b38-b6f4-f6edefe8dd70"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ИзмененияВРецептах" id="a94b1823-e338-46a0-a209-889c3c9df622" configVersion="644a9f5b70e5a64b98adfc363b9d6ad000000000">
+			<Metadata name="InformationRegister.ИзмененияВРецептах.Dimension.Блюда" id="b7b5c676-561b-4252-b68b-6454ee6eed96"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="f577e347-3dc0-4ed5-995b-69ba7e14ae7f" configVersion="67c313d5993ff5408642a30b09ccf72500000000"/>
+		<Metadata name="Report.Блюда" id="53f93e25-42cf-49b9-959d-e9b4fb1a63b6" configVersion="228a433489f89c48b29b43925743d1e300000000"/>
+		<Metadata name="Report.Блюда.Template.ОсновнаяСхемаКомпоновкиДанных" id="bdbfe370-9c5c-437d-b4c7-bd8bf6554695" configVersion="79e554647ae15a4498907544776c702f00000000"/>
+		<Metadata name="Report.Блюда.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="bdbfe370-9c5c-437d-b4c7-bd8bf6554695.0" configVersion="d512c3dfa9447642bd260c79d9f6782e00000000"/>
+		<Metadata name="Report.Продукты" id="38765c65-ab06-4f8a-b75a-97375f1f32f4" configVersion="86f7b42e86b1af41a0661ebf5a40f71000000000"/>
+		<Metadata name="Report.Продукты.Template.ОсновнаяСхемаКомпоновкиДанных" id="68c67fca-6f18-4e60-8509-dc394ddc3c5a" configVersion="98a429bd213f5c44ae85e8998c759a1c00000000"/>
+		<Metadata name="Report.Продукты.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="68c67fca-6f18-4e60-8509-dc394ddc3c5a.0" configVersion="d4df71dd97c9f64485887ec9b8dec50000000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
